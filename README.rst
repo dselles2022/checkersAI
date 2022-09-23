@@ -118,6 +118,7 @@ Every time a MR gets merged into master, an automatic release happens:
 - If the last commit's message starts with `[SKIP]`, no release happens.
 - Otherwise, a patch release happens (`1.3.3 -> 1.3.4`)
 
+this is a new message
 
 
 Maintainers
